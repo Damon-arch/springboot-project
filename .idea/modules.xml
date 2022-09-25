@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-01/springboot-01.iml" filepath="$PROJECT_DIR$/springboot-01/springboot-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-02/springboot-02.iml" filepath="$PROJECT_DIR$/springboot-02/springboot-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-03/springboot-03.iml" filepath="$PROJECT_DIR$/springboot-03/springboot-03.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/springboot-04/springboot-04.iml" filepath="$USER_HOME$/Downloads/springboot-04/springboot-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-05/springboot-05.iml" filepath="$PROJECT_DIR$/springboot-05/springboot-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-06/springboot-06.iml" filepath="$PROJECT_DIR$/springboot-06/springboot-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-07/springboot-07.iml" filepath="$PROJECT_DIR$/springboot-07/springboot-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-08-filter/springboot-08-filter.iml" filepath="$PROJECT_DIR$/springboot-08-filter/springboot-08-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-09/springboot-09.iml" filepath="$PROJECT_DIR$/springboot-09/springboot-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-10-tx/springboot-10-tx.iml" filepath="$PROJECT_DIR$/springboot-10-tx/springboot-10-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-rest/springboot-11-rest.iml" filepath="$PROJECT_DIR$/springboot-11-rest/springboot-11-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-12-redis/springboot-12-redis.iml" filepath="$PROJECT_DIR$/springboot-12-redis/springboot-12-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-13-interface/springboot-13-interface.iml" filepath="$PROJECT_DIR$/springboot-13-interface/springboot-13-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-14-provider/springboot-14-provider.iml" filepath="$PROJECT_DIR$/springboot-14-provider/springboot-14-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-15-war/springboot-15-war.iml" filepath="$PROJECT_DIR$/springboot-15-war/springboot-15-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-16-thymeleaf/springboot-16-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-16-thymeleaf/springboot-16-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-17-final/springboot-17-final.iml" filepath="$PROJECT_DIR$/springboot-17-final/springboot-17-final.iml" />
+    </modules>
+  </component>
+</project>

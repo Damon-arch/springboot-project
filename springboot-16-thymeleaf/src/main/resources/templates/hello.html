@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>你好</title>
+    <style>
+        img {
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+<p>想显示数据</p>
+<p th:text="${data}">我在哪</p>
+<p th:text="${model}">呵呵</p>
+<img src="/static/girl.jpeg" alt="girl" th:alt="${data}">
+</body>
+</html>

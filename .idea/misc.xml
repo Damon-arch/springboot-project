@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03/pom.xml" />
+        <option value="$USER_HOME$/Downloads/springboot-04/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-05/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-07/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-07/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-09/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-12-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-14-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-war/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-16-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-17-final/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

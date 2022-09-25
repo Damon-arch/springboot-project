@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-01" />
+        <module name="springboot-15-war" />
+        <module name="springboot-12-redis" />
+        <module name="springboot-13-interface" />
+        <module name="springboot-10-tx" />
+        <module name="springboot-17-final" />
+        <module name="springboot-04" />
+        <module name="springboot-05" />
+        <module name="springboot-16-thymeleaf" />
+        <module name="springboot-02" />
+        <module name="springboot-08-filter" />
+        <module name="springboot-11-rest" />
+        <module name="springboot-03" />
+        <module name="springboot-09" />
+        <module name="springboot-06" />
+        <module name="springboot-14-provider" />
+        <module name="springboot-07" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-07" target="17" />
+      <module name="springboot-01" target="17" />
+      <module name="springboot-02" target="17" />
+      <module name="springboot-03" target="17" />
+      <module name="springboot-04" target="17" />
+      <module name="springboot-05" target="17" />
+      <module name="springboot-06" target="17" />
+      <module name="springboot-07" target="17" />
+      <module name="springboot-08-filter" target="17" />
+      <module name="springboot-09" target="17" />
+      <module name="springboot-10-tx" target="17" />
+      <module name="springboot-11-rest" target="17" />
+      <module name="springboot-12-redis" target="17" />
+      <module name="springboot-13-interface" target="17" />
+      <module name="springboot-14-provider" target="17" />
+      <module name="springboot-15-war" target="17" />
+      <module name="springboot-16-thymeleaf" target="17" />
+      <module name="springboot-17-final" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-07" options="-parameters" />
+      <module name="springboot-02" options="-parameters" />
+      <module name="springboot-03" options="-parameters" />
+      <module name="springboot-04" options="-parameters" />
+      <module name="springboot-05" options="-parameters" />
+      <module name="springboot-06" options="-parameters" />
+      <module name="springboot-07" options="-parameters" />
+      <module name="springboot-08-filter" options="-parameters" />
+      <module name="springboot-09" options="-parameters" />
+      <module name="springboot-10-tx" options="-parameters" />
+      <module name="springboot-11-rest" options="-parameters" />
+      <module name="springboot-12-redis" options="-parameters" />
+      <module name="springboot-14-provider" options="-parameters" />
+      <module name="springboot-15-war" options="-parameters" />
+      <module name="springboot-16-thymeleaf" options="-parameters" />
+      <module name="springboot-17-final" options="-parameters" />
+    </option>
+  </component>
+</project>
